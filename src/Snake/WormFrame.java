@@ -31,6 +31,5 @@ public class WormFrame extends JFrame {
 
     public static void main(String[] args){
         new WormFrame();
-        System.out.println("Hello World!");
     }
 }
